@@ -10,6 +10,6 @@ gsutil cp C:\Users\User\Documents\emp.csv gs://rameshsamplebucket
 
 gsutil cp C:\Users\User\Documents\gcs_bq_load.py gs://rameshsamplebucket
 
-4.command to create temp bucket
+4.command to create temp bucket in gcs
 
 gsutil mb ramtempbucket
